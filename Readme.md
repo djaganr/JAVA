@@ -16,7 +16,3 @@ ________JRE
 JDK
 |_______JVM
 
-# primitive and referencce data types
-
-
-# packages and import keyword
